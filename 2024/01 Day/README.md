@@ -56,7 +56,3 @@ Duration                        : 0:03:11 (approx)
 ![Number of Commits](./number_of_commits.png)
 
 **Answer:** 1
-
-## If you enjoyed this task, feel free to check out the OPSEC room!
-
-## What's with all these GitHub repos? Could they hide something else?
